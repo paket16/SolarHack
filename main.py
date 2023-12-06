@@ -1,10 +1,10 @@
 
 
-def main(){
+def main():
  print(
-    "Hello world!!!!"
+    "Im a func main"
  )
-}
+
 
 if __name__ == '__main__':
     main()
